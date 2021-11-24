@@ -12,9 +12,9 @@ https://docs.djangoproject.com/en/3.2/ref/settings/
 
 from pathlib import Path
 
-LINE_CHANNEL_ACCESS_TOKEN = 'SI+MNX6Pd9ZwUFqtDMg1dJCiLqII+Tr41Vl8BqoiKpEzrF74yjsKSDHjA1udUu0rgB+aGCAokr0Za+ZpEfxUX96h2J4R5tclSH4haIZ17a4FnD++rkBLxcHrd1edeEMK0xwIMVUTa8IggvlD5sIoQwdB04t89/1O/w1cDnyilFU='
+LINE_CHANNEL_ACCESS_TOKEN = 's9mX0lnlgUbIw8DzyMmXn/T5o8BSexOtOoNzgwswdEeUbQOR5U3BhnYSxUcCNzEgcuv0vs3eo8k5ex6n8j7qj8kb49Na/hzk4QX3de5F+4nzVvzqAT7Ao02Zonal3F2GOdVAJyGbu/2vJUS6jAvPtQdB04t89/1O/w1cDnyilFU='
  
-LINE_CHANNEL_SECRET = 'feae129cdce5ead9a9d78a16a30079f4'
+LINE_CHANNEL_SECRET = '2d10ea751e17f35d2d96b29608999187'
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent.parent
@@ -29,7 +29,7 @@ SECRET_KEY = 'django-insecure-=_@bwxa4g8uimezou^%u_m2kxty%fw!@(lu_=42gyhis7gn0%l
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['76f7-27-53-184-208.ngrok.io']
+ALLOWED_HOSTS = ['https://srblbtest1.herokuapp.com/']
 
 
 # Application definition
